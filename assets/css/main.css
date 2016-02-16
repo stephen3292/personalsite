@@ -3435,3 +3435,7 @@
 	.image-skill{
 		width: 100px;
 	}
+
+	#about-paragraph{
+		text-align: left;
+	}
